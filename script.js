@@ -19,7 +19,7 @@ function bubbles(){
    
 }
 function timer(){
-   var timer = 10;
+   var timer = 60;
   let timerval =  setInterval(function(){
     if(timer>0){
       timer--;
